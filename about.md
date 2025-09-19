@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I teach entrepreurs and creators personal brand mastery based on timeless biblical principles and I've helped hundreds if not thousands exactly like you.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I give masterclasses away for free on my YouTube channel so feel free to join the community. [https://](https://www.youtube.com/@Rualdo_Kruger)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kruger.rualdo@gmail.com](mailto:kruger.rualdo@gmail.com)
