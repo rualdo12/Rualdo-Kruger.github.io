@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Story
+title: About
 ---
 
 ## It’s Not Just Branding, It’s a Calling.
