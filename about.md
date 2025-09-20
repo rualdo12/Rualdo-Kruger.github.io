@@ -8,7 +8,7 @@ I teach entrepreurs and creators personal brand mastery based on timeless biblic
 
 ### More Information
 
-I give masterclasses away for free on my YouTube channel so feel free to join the community. [https://](https://www.youtube.com/@Rualdo_Kruger)
+I give masterclasses away for free on my YouTube channel so feel free to join the community. [Rualdo Kruger](https://www.youtube.com/@Rualdo_Kruger)
 
 ### Contact me
 
