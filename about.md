@@ -3,43 +3,45 @@ layout: default
 title: About
 ---
 
-## It’s Not Just Branding, It’s a Calling.
+## Branding Is Covenant, Not Commerce
 
-For years, I saw talented, faith-driven entrepreneurs and creators struggle. They had incredible gifts and a powerful message, but they felt lost in the noisy world of online marketing. They were told to build a brand by copying trends, chasing vanity metrics, and promoting a version of themselves that felt hollow and inauthentic.
+Ask ten people what a brand is, and you’ll hear ten different answers: a logo, a color scheme, a website, a clever tagline. But the truth is deeper. A brand is your covenant — the promise you live out with integrity, consistency, and legacy. 
 
-I knew there had to be a better way—a way to build a brand that was not only successful but was also a true reflection of one's God-given calling.
+That’s the revelation behind my book, *God’s Original Brand: 7 Steps to Building a Brand that Lasts an Eternity*. God Himself was the first brand-builder, embedding His identity and covenant into creation. My mission is to help entrepreneurs and creators align their brands with the same eternal principles.
 
 ---
 
-### My Journey: From [Your "Before" State] to Purpose
+### My Journey: From Atrocious Brand to Eternal Purpose
 
-My path here wasn't a straight line. I spent years [briefly describe your past experience, whether in corporate, ministry, another business, etc.]. While I learned a lot, I often felt a disconnect between my work and my faith. I saw "success" defined by metrics that left out the most important things: integrity, service, and legacy.
+My own life used to be the anatomy of a failed brand — inconsistency, broken promises, and self-destruction. I projected an image that wasn’t true, and eventually, it all collapsed.  
 
-[**This is your key story moment.** Share a 1-2 sentence story about what changed for you. What was the turning point that led you to focus on biblical principles for branding?]
+But in the rubble, I found grace. Through scripture, faith, and painful lessons, I discovered that branding isn’t about gimmicks or trends. It’s about covenant. It’s about identity, story, trust, influence, multiplication, and legacy — the Divine 7 Framework.  
 
-That experience ignited a passion in me to help others avoid that same struggle. I dove deep into scripture, not for marketing tricks, but for timeless principles of leadership, influence, and stewardship. What I found was a blueprint for building a personal brand that is both powerful and pure.
+Today, I help others avoid the traps I fell into and build brands rooted in integrity, authenticity, and eternal impact.
+
+---
 
 ### My Core Beliefs
 
-* **Your Brand is a Stewardship:** It's a gift you've been given to manage for a greater purpose.
-* **Authenticity is Non-Negotiable:** True influence comes from being who God created you to be, not who the world wants you to be.
-* **Service is the Best Marketing:** A brand built on genuinely serving others will always stand out.
-* **Legacy Over Likes:** We're building brands that will leave a positive impact for years to come.
+* **Your Brand Is Your Covenant:** It’s not a logo; it’s the promises you live and keep.  
+* **Authenticity Is Non-Negotiable:** Who you are matters more than who you pretend to be.  
+* **Service Is the Best Strategy:** A brand rooted in service multiplies naturally.  
+* **Legacy Over Likes:** We’re building brands that will outlast trends and leave generational impact.  
 
 ---
 
-When I'm not helping build purpose-driven brands, you can find me [Your personal touch - e.g., enjoying the incredible coastline here in Mossel Bay, spending time with my family, serving at my local church, etc.].
+When I’m not teaching or coaching, you’ll find me with my fiancé and daughters, building the kind of world I want them to inherit.
 
-## Are You Ready to Build a Brand That Matters?
+## Ready to Build a Brand That Lasts?
 
-If my story resonates with you and you're ready to build a brand that aligns with your faith and values, I invite you to take the next step.
+If you’re tired of shallow strategies and want to build a brand that carries eternal weight, I invite you to take the next step.
 
 **[Book Your Free 15-Minute Clarity Call Here](https://calendly.com/your-link)**
 
 ### Free Master Sessions For All
 
-I give masterclasses away for free on my YouTube channel so feel free to join the community. [Rualdo Kruger](https://www.youtube.com/@Rualdo_Kruger)
+I share free masterclasses on my YouTube channel. Join the community: [Rualdo Kruger](https://www.youtube.com/@Rualdo_Kruger)
 
-### Contact me
+### Contact Me
 
 [kruger.rualdo@gmail.com](mailto:kruger.rualdo@gmail.com)
