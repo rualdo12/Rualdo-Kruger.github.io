@@ -36,6 +36,8 @@ If my story resonates with you and you're ready to build a brand that aligns wit
 
 **[Book Your Free 15-Minute Clarity Call Here](https://calendly.com/your-link)**
 
+### Free Master Sessions For All
+
 I give masterclasses away for free on my YouTube channel so feel free to join the community. [Rualdo Kruger](https://www.youtube.com/@Rualdo_Kruger)
 
 ### Contact me
