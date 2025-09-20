@@ -24,23 +24,34 @@ layout: default
 <body class="bg-gray-900 text-gray-200">
 
     <!-- Main Content Container -->
-    <main class="container mx-auto max-w-4xl px-6 py-12 md:py-20">
+ <header class="relative bg-cover bg-center h-96 md:h-[500px]" style="background-image: url('./assets/Banner 2.png');">
+    
+    <div class="absolute inset-0 bg-black bg-opacity-60"></div>
 
-        <header class="text-center mb-12">
-            <h1 class="text-4xl md:text-5xl font-extrabold text-white mb-4 leading-tight">SHOCKWAVE: Brand Mastery Academy</h1>
-        </header>
+    <div class="relative z-10 container mx-auto px-6 h-full flex flex-col">
 
-        <section class="mb-12">
-            <img src="./assets/Banner 2.png" alt="SHOCKWAVE Brand Mastery Academy Banner" class="w-full h-auto rounded-xl shadow-lg">
-        </section>
+        <nav class="flex items-center justify-between py-6">
+            <div class="text-white font-semibold text-lg">
+                SHOCKWAVE
+            </div>
+            <div class="flex items-center space-x-8 text-white">
+                <a href="#" class="hover:text-amber-400 transition-colors">Home</a>
+                <a href="#" class="hover:text-amber-400 transition-colors">About</a>
+                <a href="#" class="hover:text-amber-400 transition-colors">Study</a>
+            </div>
+        </nav>
 
-        <!-- Header Section -->
-        <header class="text-center mb-12">
-            <h1 class="text-4xl md:text-5xl font-extrabold text-white mb-4 leading-tight">What do we do?</h1>
-            <p class="text-lg text-gray-300 max-w-2xl mx-auto">
-                We teach entrepreneurs and creators how to build powerful personal brands based on timeless biblical principles. How to stop chasing trends and start building a legacy the right way.
+        <div class="flex-grow flex flex-col items-center justify-center text-center text-white">
+            <h1 class="text-4xl md:text-6xl font-extrabold leading-tight mb-4">Brand Mastery Academy</h1>
+            <p class="text-lg md:text-xl max-w-2xl">
+                We teach entrepreneurs and creators how to build powerful personal brands based on timeless biblical principles.
             </p>
-        </header>
+        </div>
+
+    </div>
+</header>
+
+<main class="container mx-auto max-w-4xl px-6 py-12 md:py-20">
 
         <hr class="my-12 border-gray-700">
         
