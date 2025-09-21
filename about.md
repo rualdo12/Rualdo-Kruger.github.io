@@ -17,7 +17,7 @@ That’s the revelation behind Rualdo Kruger's book, *God’s Original Brand: 7 
 
 Rualdo's life used to be the exact anatomy of a failed brand — inconsistency, broken promises, and self-destruction. He projected an image that wasn’t true, and eventually, it all collapsed.  
 
-But in the rubble, he found grace. Through scripture, faith, and painful lessons, Rualdo discovered that branding isn’t about gimmicks or trends. It’s about covenant. It’s about identity, story, trust, influence, multiplication, and legacy — the Divine 7 Framework.  
+But in the rubble, he found grace. Through scripture, faith, and painful lessons, Rualdo discovered that branding isn’t about gimmicks or trends. It’s about covenant. It’s about identity, story, consistency, trust, influence, multiplication, and legacy — the Divine 7 Framework.  
 
 Today, Rualdo Kruger helps others avoid the traps that he fell into and build brands rooted in integrity, authenticity, and eternal impact.
 
