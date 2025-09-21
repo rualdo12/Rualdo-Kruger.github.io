@@ -25,10 +25,10 @@ Today, Rualdo Kruger helps others avoid the traps that he fell into and he helps
 
 ### Our Core Beliefs
 
--* **Your Brand Is Your Covenant:** It’s not a logo; it’s the promises you live and keep.  
--* **Authenticity Is Non-Negotiable:** Who you are matters more than who you pretend to be.  
--* **Service Is the Best Strategy:** A brand rooted in service multiplies naturally.  
--* **Legacy Over Likes:** We’re building brands that will outlast trends and leave generational impact.  
+- * **Your Brand Is Your Covenant:** It’s not a logo; it’s the promises you live and keep.  
+- * **Authenticity Is Non-Negotiable:** Who you are matters more than who you pretend to be.  
+- * **Service Is the Best Strategy:** A brand rooted in service multiplies naturally.  
+- * **Legacy Over Likes:** We’re building brands that will outlast trends and leave generational impact.  
 
 ---
 
