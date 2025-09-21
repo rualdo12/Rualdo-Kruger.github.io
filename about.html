@@ -1,34 +1,32 @@
----
-layout: default
----
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>About Us | SHOCKWAVE: Brand Mastery Academy</title>
+    <script src="https://cdn.tailwindcss.com"></script>
     
-    <link rel="stylesheet" href="styles.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&display=swap" rel="stylesheet">
     <link rel="icon" href="/assets/images/favicon.png" type="image/png">
+    <style>
+        /* Use the Inter font family defined in the head */
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+    </style>
+</head>
+<body class="bg-gray-900 text-gray-200">   
 
 </head>
 <body>
 
     <nav class="sticky-nav">
         <div class="nav-links">
-            <a href="index.html">Home</a>
-            <a href="about.html" class="active">About Us</a>
-            <a href="legal.html">Legal</a>
-            <a href="apotheosis.html" class="cta-link apotheosis-link">
-                APOTHEOSIS
-                <span class="cta-subtext">Live Covenantally</span>
-            </a>
-            <a href="my-account.html" class="cta-link">
-                My Account
-                <span class="cta-subtext">Login/Subscribe</span>
-            </a>
+            <a href="{{ site.baseurl }}/" class="hover:text-amber-400 transition-colors">Home</a>
+            <a href="{{ site.baseurl }}/about" class="hover:text-amber-400 transition-colors">About</a>
+            <a href="{{ site.baseurl }}/study" class="hover:text-amber-400 transition-colors">Study</a>
         </div>
         <div class="nav-favicon">
             <a href="index.html">
@@ -144,11 +142,11 @@ layout: default
         // Revolving Header Background
         const header = document.getElementById('revolving-header');
         const images = [
-            '/assets/images/slide1.png',
-            '/assets/images/slide2.png',
-            '/assets/images/slide3.png',
-            '/assets/images/slide4.png',
-            '/assets/images/slide5.png'
+            '/assets/images/Slide 1.jpg',
+            '/assets/images/Slide 2.jpg',
+            '/assets/images/Slide 3.jpg',
+            '/assets/images/Slide 4.jpg',
+            '/assets/images/Slide 5.jpg'
         ];
         let currentImageIndex = 0;
 
@@ -173,4 +171,5 @@ layout: default
 
 </body>
 </html>
+
 
