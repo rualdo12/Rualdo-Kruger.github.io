@@ -19,22 +19,22 @@ Rualdo's life used to be the exact anatomy of a failed brand — inconsistency, 
 
 But in the rubble, he found grace. Through scripture, faith, and painful lessons, Rualdo discovered that branding isn’t about gimmicks or trends. It’s about covenant. It’s about identity, story, consistency, trust, influence, multiplication, and legacy — the Divine 7 Framework.  
 
-Today, Rualdo Kruger helps others avoid the traps that he fell into and build brands rooted in integrity, authenticity, and eternal impact.
+Today, Rualdo Kruger helps others avoid the traps that he fell into and he helps build brands rooted in integrity, authenticity, and eternal impact.
 
 ---
 
 ### Our Core Beliefs
 
-* **Your Brand Is Your Covenant:** It’s not a logo; it’s the promises you live and keep.  
-* **Authenticity Is Non-Negotiable:** Who you are matters more than who you pretend to be.  
-* **Service Is the Best Strategy:** A brand rooted in service multiplies naturally.  
-* **Legacy Over Likes:** We’re building brands that will outlast trends and leave generational impact.  
+-* **Your Brand Is Your Covenant:** It’s not a logo; it’s the promises you live and keep.  
+-* **Authenticity Is Non-Negotiable:** Who you are matters more than who you pretend to be.  
+-* **Service Is the Best Strategy:** A brand rooted in service multiplies naturally.  
+-* **Legacy Over Likes:** We’re building brands that will outlast trends and leave generational impact.  
 
 ---
 
 When Rualdo's not teaching or coaching, you’ll find him with his fiancé and daughters, building the kind of world he wants them to inherit.
 
-## Ready to Build a Brand That Lasts an Eternity?
+## Are You Ready to Build a Brand That Lasts for Eternity?
 
 If you’re tired of shallow strategies and want to build a brand that carries eternal weight, Rualdo Kruger invites you to take the next step.
 
