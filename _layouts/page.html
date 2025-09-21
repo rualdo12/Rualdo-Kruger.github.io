@@ -5,43 +5,69 @@ layout: default
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- Tailwind CSS for styling -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <!-- Google Fonts: Inter -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&display=swap" rel="stylesheet">
-    <style>
-        /* Use the Inter font family defined in the head */
-        body {
-            font-family: 'Inter', sans-serif;
-        }
-    </style>
-</head>
-    <body class="bg-gray-900 text-gray-200">
-        <header
-    <div class="relative z-10 container mx-auto px-6 h-full flex flex-col">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <!-- Tailwind CSS (CDN) -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&display=swap" rel="stylesheet">
+  <style>
+    body { font-family: 'Inter', sans-serif; }
 
-        <nav class="flex items-center justify-between py-6">
-            <div class="text-white font-semibold text-lg">
-            </div>
-            <div class="flex items-center space-x-8 text-white">
-                <a href="{{ site.baseurl }}/" class="hover:text-amber-400 transition-colors">Home</a>
-                <a href="{{ site.baseurl }}/about" class="hover:text-amber-400 transition-colors">About</a>
-                <a href="{{ site.baseurl }}/study" class="hover:text-amber-400 transition-colors">Study</a>
-            </div>
-        </nav>
+    /* --- Custom heading styles for Markdown content inside .content --- */
+    .content h1,
+    .content h2,
+    .content h3,
+    .content h4 {
+      color: #fbbf24; /* amber-400 */
+      margin-top: 1.0rem;
+      margin-bottom: 0.5rem;
+      line-height: 1.15;
+      font-weight: 700;
+    }
+    .content h1 { font-size: 2rem; }
+    .content h2 { font-size: 1.5rem; }
+    .content h3 { font-size: 1.25rem; }
+    .content p { color: #d1d5db; margin-bottom: 0.9rem; line-height: 1.7; }
+    .content a { color: #f59e0b; text-decoration: underline; }
+    .content ul, .content ol { margin-left: 1.25rem; margin-bottom: 1rem; color: #d1d5db; }
+    /* small responsive tweak */
+    @media (min-width: 768px) {
+      .content h1 { font-size: 2.25rem; }
+      .content h2 { font-size: 1.75rem; }
+    }
+  </style>
+</head>
+
+<body class="bg-gray-900 text-gray-200">
+  <!-- top navigation -->
+  <header>
+    <div class="relative z-10 container mx-auto px-6 h-full flex flex-col">
+      <nav class="flex items-center justify-between py-6">
+        <div class="text-white font-semibold text-lg">
+          <!-- optional brand/title here -->
+        </div>
+        <div class="flex items-center space-x-8 text-white">
+          <a href="{{ site.baseurl }}/" class="hover:text-amber-400 transition-colors">Home</a>
+          <a href="{{ site.baseurl }}/about" class="hover:text-amber-400 transition-colors">About</a>
+          <a href="{{ site.baseurl }}/study" class="hover:text-amber-400 transition-colors">Study</a>
+        </div>
+      </nav>
     </div>
-</header>
-    
-<main class="container mx-auto max-w-4xl px-6 py-12 md:py-20">
-     <hr class="my-12 border-gray-700">
-<div class="prose prose-invert max-w-2xl mx-auto">
-    {{ content }}
-</div>
-</div>
-</main>
+  </header>
+
+  <!-- main content -->
+  <main class="container mx-auto max-w-4xl px-6 py-12 md:py-20">
+    <hr class="my-12 border-gray-700">
+
+    <!-- content wrapper: keep Markdown output unwrapped by <p> so headings remain headings -->
+    <section class="mb-12">
+      <div class="max-w-2xl mx-auto content">
+        {{ content }}
+      </div>
+    </section>
+  </main>
 </body>
 </html>
