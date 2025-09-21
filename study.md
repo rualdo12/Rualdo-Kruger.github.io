@@ -7,6 +7,8 @@ title: Self Study Material
 
 ## Course 1
 
+The 7 Divine Framework to building a brand that lasts an eternity.
+
 **[Grab Yours Here](https://etsy.com/your-link)**
 
 ### Are You Ready to Build a Brand That Matters?
