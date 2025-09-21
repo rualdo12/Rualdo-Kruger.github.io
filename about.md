@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title:  My Story
 ---
 
 ## Branding Is Covenant, Not Commerce
