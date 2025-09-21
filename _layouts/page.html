@@ -13,6 +13,10 @@ layout: default
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&display=swap" rel="stylesheet">
+   
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <link rel="icon" href="/assets/images/favicon.png" type="image/png">
   <style>
     body { font-family: 'Inter', sans-serif; }
 
@@ -69,5 +73,35 @@ layout: default
       </div>
     </section>
   </main>
+  <script>
+        // Revolving Header Background
+        const header = document.getElementById('revolving-header');
+        const images = [
+            '/assets/images/slide1.png',
+            '/assets/images/slide2.png',
+            '/assets/images/slide3.png',
+            '/assets/images/slide4.png',
+            '/assets/images/slide5.png'
+        ];
+        let currentImageIndex = 0;
+
+        function changeBackgroundImage() {
+            currentImageIndex = (currentImageIndex + 1) % images.length;
+            if (header) {
+                header.style.backgroundImage = `url('${images[currentImageIndex]}')`;
+            }
+        }
+
+        // Preload images
+        images.forEach(src => {
+            const img = new Image();
+            img.src = src;
+        });
+
+        if (header) {
+            header.style.backgroundImage = `url('${images[0]}')`;
+            setInterval(changeBackgroundImage, 5000); // Change every 5 seconds
+        }
+    </script>
 </body>
 </html>
