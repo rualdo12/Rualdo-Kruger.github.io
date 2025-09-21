@@ -1,0 +1,146 @@
+---
+layout: page
+title: Story
+permalink: /about/
+---
+
+    <header id="revolving-header" class="about-header">
+        <div class="hero-overlay"></div>
+        <div class="hero-content">
+            <h2 style="font-size: 4rem; font-family: 'britanic', sans-serif;">About SHOCKWAVE</h2>
+            <p style="font-size: 1.5rem; color: #D1D5DB;">Transforming Businesses Through Brand Mastery & Lasting Legacy</p>
+        </div>
+    </header>
+
+    <main>
+        <section class="about-content-section container">
+            <div class="content-grid">
+                            <div>
+                                <h3>From Self-Destruction to Brand Transformation</h3>
+                                <p>
+                                    My journey didn’t begin in glossy boardrooms — it began in the hard lessons of 
+                                    broken promises, inconsistency, and rebuilding from the ground up. What I 
+                                    discovered in that process is that <strong>brand is not cosmetics — it is covenant</strong>. 
+                                </p>
+                                    <p>
+                                        That conviction shaped my career and now fuels my consulting practice. As a 
+                                        <strong>Master Brand Analyst and Transformer</strong>, I’ve worked with entrepreneurs 
+                                        and organizations to re-engineer their brand foundations, consistently helping 
+                                        them achieve <strong>300% – 1000%+ ROI</strong> by aligning vision, values, and visibility.
+                                    </p>
+                                <p>
+                                    Today, I bring together strategy, storytelling, and systems to help business 
+                                    leaders not just grow — but create brands that endure.
+                                </p>
+                            </div>
+                <div class="image-content">
+                    <img src="/assets/images/evolution.png" alt="Brand transformation in action" onerror="this.style.display='none'">
+                </div>
+            </div>
+        </section>
+        
+        <section class="info-section">
+  <div class="vision-mission-container">
+    <div class="interactive-box vision-box">
+      <h4>Rualdo Kruger's Vision</h4>
+      <p>"To redefine branding as a covenant, not just commerce — helping leaders build brands that are authentic, impactful, and enduring."</p>
+    </div>
+    <div class="interactive-box mission-box">
+      <h4>Rualdo Kruger's Mission</h4>
+      <p>"To empower entrepreneurs and organizations by transforming their brands into engines of growth, influence, and legacy — guided by timeless principles and proven strategies."</p>
+    </div>
+  </div>
+</section>
+
+
+        <section class="about-content-section container">
+  <div style="text-align: center; margin-bottom: 3rem;">
+    <h2 style="font-size: 3rem;">What I Help You Achieve</h2>
+    <p style="font-size: 1.2rem; color: #9CA3AF; margin-top: 0.5rem;">
+      Every transformation is built on a proven framework that drives measurable results.
+    </p>
+  </div>
+  <div class="safeguarding-grid">
+    <div class="safeguarding-card interactive-box" style="background-image: url('/assets/images/strategy.png');">
+      <h4>Brand Strategy</h4>
+      <p>Clarify your identity, values, and story to position your brand with power and authenticity.</p>
+    </div>
+    <div class="safeguarding-card interactive-box" style="background-image: url('/assets/images/transformation.png');">
+      <h4>Business Transformation</h4>
+      <p>Leverage brand as the ultimate growth engine — unlocking 300%–1000%+ ROI for entrepreneurs and organizations.</p>
+    </div>
+    <div class="safeguarding-card interactive-box" style="background-image: url('/assets/images/legacy.png');">
+      <h4>Legacy & Influence</h4>
+      <p>Build a brand that multiplies impact, inspires trust, and leaves a lasting legacy beyond trends.</p>
+    </div>
+  </div>
+</section>
+
+
+        <section class="about-content-section section-darker">
+            <div class="container">
+                <h2 style="font-size: 3rem;">Leadership</h2>
+                <div class="leadership-grid">                    
+                    <div class="bio-card">
+                        <a href="/assets/source/rualdo.html" class="profile-link">
+                            <img src="/assets/images/cse.png" alt="Profile of Rualdo Kruger">
+                        </a>
+                        <h3>Rualdo Kruger</h3>
+                        <p class="title">Master Brand Consultant and Transformer</p>
+                        <p>Rualdo Kruger is a pioneering strategist, software engineer, and author of 
+                            <em>God’s Original Brand: 7 Steps to Building a Brand that Lasts an Eternity</em>. 
+                                Known as a Master Brand Analyst and Transformer, he specializes in building and 
+                                revitalizing businesses to achieve exponential growth, with transformations yielding 
+                                returns of 300% to over 1000% ROI when brand is strategically aligned.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="main-footer">
+        <p class="footer-slogan">"Build the brand that lasts eternity."</p>
+        <ul class="social-links">
+            <li><a href="https://www.facebook.com/rualdo.kruger.3" target="_blank" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a></li>
+            <li><a href="https://www.linkedin.com/company/107050729" target="_blank" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a></li>
+        </ul>
+        <div class="footer-links">
+            <a href="legal.html">Privacy Policy</a>
+        </div>
+        <p>© 2025 Rualdo Kruger. All Rights Reserved.</p>
+    </footer>
+
+    <script>
+        // Revolving Header Background
+        const header = document.getElementById('revolving-header');
+        const images = [
+            '/assets/slide1.png',
+            '/assets/slide2.png',
+            '/assets/slide3.png',
+            '/assets/slide4.png',
+            '/assets/slide5.png'
+        ];
+        let currentImageIndex = 0;
+
+        function changeBackgroundImage() {
+            currentImageIndex = (currentImageIndex + 1) % images.length;
+            if (header) {
+                header.style.backgroundImage = `url('${images[currentImageIndex]}')`;
+            }
+        }
+
+        // Preload images
+        images.forEach(src => {
+            const img = new Image();
+            img.src = src;
+        });
+
+        if (header) {
+            header.style.backgroundImage = `url('${images[0]}')`;
+            setInterval(changeBackgroundImage, 5000); // Change every 5 seconds
+        }
+    </script>
+
+</body>
+</html>
