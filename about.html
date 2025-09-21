@@ -4,20 +4,34 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>About Us | SHOCKWAVE: Brand Mastery Academy</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-  <!-- Google Fonts -->
-      <link rel="preconnect" href="https://fonts.googleapis.com" />
-      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-      <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&display=swap" rel="stylesheet">
-   
-      <link rel="stylesheet" href="styles.css">
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-      <link rel="icon" href="/assets/images/favicon.png" type="image/png">
-    <style>
-        body { font-family: 'Inter', sans-serif; }
-    </style>
+    
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="icon" href="/assets/images/favicon.png" type="image/png">
 
 </head>
+<body>
+
+    <nav class="sticky-nav">
+        <div class="nav-links">
+            <a href="index.html">Home</a>
+            <a href="about.html" class="active">About Us</a>
+            <a href="legal.html">Legal</a>
+            <a href="apotheosis.html" class="cta-link apotheosis-link">
+                APOTHEOSIS
+                <span class="cta-subtext">Live Covenantally</span>
+            </a>
+            <a href="my-account.html" class="cta-link">
+                My Account
+                <span class="cta-subtext">Login/Subscribe</span>
+            </a>
+        </div>
+        <div class="nav-favicon">
+            <a href="index.html">
+                <img src="/assets/images/favicon.png" alt="SHOCKWAVE Favicon">
+            </a>
+        </div>
+    </nav>
 
     <header id="revolving-header" class="about-header">
         <div class="hero-overlay"></div>
@@ -55,46 +69,42 @@
         </section>
         
         <section class="info-section">
-  <div class="vision-mission-container">
-    <div class="interactive-box vision-box">
-      <h4>Rualdo Kruger's Vision</h4>
-      <p>"To redefine branding as a covenant, not just commerce — helping leaders build brands that are authentic, impactful, and enduring."</p>
-    </div>
-    <div class="interactive-box mission-box">
-      <h4>Rualdo Kruger's Mission</h4>
-      <p>"To empower entrepreneurs and organizations by transforming their brands into engines of growth, influence, and legacy — guided by timeless principles and proven strategies."</p>
-    </div>
-  </div>
-</section>
-
+            <div class="vision-mission-container">
+                <div class="interactive-box vision-box">
+                    <h4>Our Vision</h4>
+                    <p>"To engineer a future where every manufacturing and distribution business in Southern Africa operates at its peak potential, driven by our deeply integrated software and unwavering partnership."</p>
+                </div>
+                <div class="interactive-box mission-box">
+                    <h4>Our Mission</h4>
+                    <p>"We engineer success by delivering tailored software solutions that solve real-world industrial challenges. Through our expert implementation of Console-Pro ERP and our commitment to protecting our clients' digital assets, we provide the foundation for efficiency, growth, and lasting value."</p>
+                </div>
+            </div>
+        </section>
 
         <section class="about-content-section container">
-  <div style="text-align: center; margin-bottom: 3rem;">
-    <h2 style="font-size: 3rem;">What I Help You Achieve</h2>
-    <p style="font-size: 1.2rem; color: #9CA3AF; margin-top: 0.5rem;">
-      Every transformation is built on a proven framework that drives measurable results.
-    </p>
-  </div>
-  <div class="safeguarding-grid">
-    <div class="safeguarding-card interactive-box" style="background-image: url('/assets/images/strategy.png');">
-      <h4>Brand Strategy</h4>
-      <p>Clarify your identity, values, and story to position your brand with power and authenticity.</p>
-    </div>
-    <div class="safeguarding-card interactive-box" style="background-image: url('/assets/images/transformation.png');">
-      <h4>Business Transformation</h4>
-      <p>Leverage brand as the ultimate growth engine — unlocking 300%–1000%+ ROI for entrepreneurs and organizations.</p>
-    </div>
-    <div class="safeguarding-card interactive-box" style="background-image: url('/assets/images/legacy.png');">
-      <h4>Legacy & Influence</h4>
-      <p>Build a brand that multiplies impact, inspires trust, and leaves a lasting legacy beyond trends.</p>
-    </div>
-  </div>
-</section>
-
+            <div style="text-align: center; margin-bottom: 3rem;">
+                <h2 style="font-size: 3rem;">Safeguarding Your Digital Assets</h2>
+                <p style="font-size: 1.2rem; color: #9CA3AF; margin-top: 0.5rem;">Our multi-layered approach to protection is designed to secure your intellectual property.</p>
+            </div>
+            <div class="safeguarding-grid">
+                <div class="safeguarding-card interactive-box" style="background-image: url('/assets/images/protection.png');">
+                    <h4>Intellectual Property Protection</h4>
+                    <p>We employ robust legal and technical strategies to protect your proprietary algorithms and unique business logic from theft and unauthorized exposure.</p>
+                </div>
+                <div class="safeguarding-card interactive-box" style="background-image: url('/assets/images/licensing.png');">
+                    <h4>Robust Licensing Solutions</h4>
+                    <p>From online activation to flexible network licenses, we implement the right control mechanisms to prevent piracy and ensure legitimate use.</p>
+                </div>
+                <div class="safeguarding-card interactive-box" style="background-image: url('/assets/images/security.png');">
+                    <h4>Layered Anti-Tampering Security</h4>
+                    <p>Our software is hardened with a suite of anti-reverse engineering techniques, including code obfuscation and runtime integrity checks.</p>
+                </div>
+            </div>
+        </section>
 
         <section class="about-content-section section-darker">
             <div class="container">
-                <h2 style="font-size: 3rem;">Leadership</h2>
+                <h2 style="font-size: 3rem;">Our Leadership</h2>
                 <div class="leadership-grid">                    
                     <div class="bio-card">
                         <a href="/assets/source/rualdo.html" class="profile-link">
@@ -130,11 +140,11 @@
         // Revolving Header Background
         const header = document.getElementById('revolving-header');
         const images = [
-            '/assets/slide1.png',
-            '/assets/slide2.png',
-            '/assets/slide3.png',
-            '/assets/slide4.png',
-            '/assets/slide5.png'
+            '/assets/images/slide1.png',
+            '/assets/images/slide2.png',
+            '/assets/images/slide3.png',
+            '/assets/images/slide4.png',
+            '/assets/images/slide5.png'
         ];
         let currentImageIndex = 0;
 
@@ -159,5 +169,3 @@
 
 </body>
 </html>
-
-
