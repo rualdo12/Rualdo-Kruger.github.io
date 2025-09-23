@@ -22,18 +22,20 @@
 </head>
 <body>
 
-    <nav class="sticky-nav">
-        <div class="nav-links">
-            <a href="{{ site.baseurl }}/" class="hover:text-amber-400 transition-colors">Home</a>
-            <a href="{{ site.baseurl }}/about" class="hover:text-amber-400 transition-colors">About</a>
-            <a href="{{ site.baseurl }}/study" class="hover:text-amber-400 transition-colors">Study</a>
-        </div>
-        <div class="nav-favicon">
-            <a href="index.html">
-                <img style="background-image: url('./images/favicon.png');" >
-            </a>
-        </div>
-    </nav>
+    <nav class="flex items-center justify-between py-6">
+            <div class="text-white font-semibold text-lg">
+            </div>
+            <div class="flex items-center space-x-8 text-white">
+                <a href="{{ site.baseurl }}/" class="hover:text-amber-400 transition-colors">Home</a>
+                <a href="{{ site.baseurl }}/about" class="hover:text-amber-400 transition-colors">About</a>
+                <a href="{{ site.baseurl }}/study" class="hover:text-amber-400 transition-colors">Study</a>
+            </div>
+            <div class="nav-favicon">
+                <a href="index.html">
+                    <img style="background-image: url('./images/favicon.png');">
+                </a>
+            </div>
+        </nav>
 
     <header id="revolving-header" class="about-header">
         <div class="hero-overlay"></div>
@@ -176,6 +178,7 @@
 
 </body>
 </html>
+
 
 
 
