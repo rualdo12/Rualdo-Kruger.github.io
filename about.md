@@ -50,10 +50,10 @@ Rualdo Kruger is a pioneering strategist, software engineer, and author of *Godâ
 
 ---
 
-> "Build the brand that lasts eternity."
-
 * [Facebook](https://www.facebook.com/rualdo.kruger.3)
-* [LinkedIn](https://www.linkedin.com/company/107050729)
+* [LinkedIn](https://www.linkedin.com/rualdo-kruger-031488298/)
+
+> "Build the brand that lasts eternity."
 
 [Privacy Policy](https://rualdo12.github.io/SHOCKWAVE/assets/legal.html)
 
