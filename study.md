@@ -15,4 +15,4 @@ The 7 Divine Framework to building a brand that lasts an eternity.
 
 If my story resonates with you and you're ready to build a brand that aligns with your faith and values, I invite you to take the next step.
 
-**[Book Your Free 15-Minute Clarity Call Here](https://calendly.com/your-link)**
+**[Join the D7 Branding Community Here](https://whop.com/shockwave-be4d/the-divine-7-branding-toolkit/)**
