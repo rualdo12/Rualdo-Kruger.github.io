@@ -3,9 +3,9 @@ layout: page
 title: Self Study Material
 ---
 
-### It’s Not Just Branding, It’s a Calling.
+## It’s Not Just Branding, It’s a Calling.
 
-## God's Original Brand: 7 Steps to Building a Brand that Lasts an Eternity
+# God's Original Brand: 7 Steps to Building a Brand that Lasts an Eternity
 
 The 7 Divine Framework to building a brand that lasts an eternity.
 
