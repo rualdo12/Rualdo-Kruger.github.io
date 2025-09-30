@@ -9,6 +9,8 @@ title: Self Study Material
 
 The 7 Divine Framework to building a brand that lasts an eternity.
 
+    ![This is an image of the book]url(assets/3D Mockup - God's Original Brand 7 Steps to Building a Brand that Lasts an Eternity First Edition.jpg)
+
 **[Grab Yours Here](https://www.amazon.com/dp/B0FSZGTRQZ)**
 
 ### Are You Ready to Build a Brand That Matters?
