@@ -1,3 +1,8 @@
+---
+layout: page
+title: About
+---
+
 ## About SHOCKWAVE
 **Transforming Businesses Through Brand Mastery & Lasting Legacy**
 
