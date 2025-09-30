@@ -3,11 +3,11 @@ layout: page
 title: Self Study Material
 ---
 
-<img width="1536" height="1024" alt="Banner 2" src="https://github.com/user-attachments/assets/6c6de481-9dba-4570-9fae-5f42e745c732" />
+# It’s Not Just Branding, It’s a Calling.
 
-## It’s Not Just Branding, It’s a Calling.
+____
 
-# God's Original Brand: 7 Steps to Building a Brand that Lasts an Eternity
+## God's Original Brand: 7 Steps to Building a Brand that Lasts an Eternity
 
 The 7 Divine Framework to building a brand that lasts an eternity.
 
