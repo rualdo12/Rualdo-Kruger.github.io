@@ -20,3 +20,7 @@ The 7 Divine Framework to building a brand that lasts an eternity.
 If my story resonates with you and you're ready to build a brand that aligns with your faith and values, I invite you to take the next step.
 
 **[Join the D7 Branding Community Here](https://whop.com/shockwave-be4d/the-divine-7-branding-toolkit/)**
+
+<img width="1920" height="1080" alt="D7 Branding Community Screengrab" src="https://github.com/user-attachments/assets/252d0e61-88aa-4590-936c-677447113e79" />
+
+
