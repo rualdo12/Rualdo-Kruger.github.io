@@ -1,78 +1,90 @@
 # SHOCKWAVE Systems - Full AI Content Map
 
 Site: https://shockwave.live
-Generated: 2026-03-23T10:06:08.416Z
+Generated: 2026-05-14T21:40:15.858Z
 
 ## Pages
-- Title: Credibility Systems for Mining Consultants | SHOCKWAVE Systems
+- Title: Mining Opportunity Intelligence for Technical Firms | SHOCKWAVE Systems
   URL: https://shockwave.live
   Type: home
-  Description: SHOCKWAVE Systems helps mining consultants and technical firms become easier to trust, easier to evaluate, and harder to price-shop.
-- Title: About SHOCKWAVE Systems | Credibility Systems for Technical Firms
-  URL: https://shockwave.live/about
+  Description: Identify, qualify, and act on commercially relevant mining opportunities using fit, timing, evidence, and commercial trigger research.
+- Title: Start Here | SHOCKWAVE Systems
+  URL: https://shockwave.live/start-here
   Type: page
-  Description: Meet the SHOCKWAVE team and operating approach for credibility-first buyer-facing systems under procurement scrutiny.
-- Title: Credibility and Buyer Confidence Insights | SHOCKWAVE Systems
-  URL: https://shockwave.live/blog
-  Type: blog-hub
-  Description: Actionable insight on trust signals, proof visibility, positioning clarity, and procurement-sensitive buying.
-- Title: Contact SHOCKWAVE Systems | Start the Right Credibility Conversation
-  URL: https://shockwave.live/book
-  Type: page
-  Description: Tell SHOCKWAVE where trust, proof, clarity, or buyer confidence may be breaking down and get a recommendation on the right credibility offer.
-- Title: Contact SHOCKWAVE Systems | Start the Right Credibility Conversation
-  URL: https://shockwave.live/contact
-  Type: contact
-  Description: Tell SHOCKWAVE where trust, proof, clarity, or buyer confidence may be breaking down and get a recommendation on the right credibility offer.
-- Title: Why Mining Consultants Need a LinkedIn Credibility Engine, Not More Content
-  URL: https://shockwave.live/linkedin-content-engine-mining-consultants
-  Type: blog-post
-  Description: Posting more does not build trust. This weekly LinkedIn credibility engine helps mining consultants show proof, fit, and technical thinking buyers can trust.
-- Title: Why Mining Buyers Need a Proof Trail, Not Just Promises
-  URL: https://shockwave.live/mining-consultant-proof-testimonials-case-studies
-  Type: blog-post
-  Description: Mining buyers compare evidence, not claims. Build a proof trail with testimonials, mini case studies, and confidentiality-safe artifacts that make selection safer.
-- Title: Why a Mining Consultant Website Must Start Conversations (Not Just Look Good)
-  URL: https://shockwave.live/mining-consultant-website-starts-conversations
-  Type: blog-post
-  Description: Mining consulting is a trust-first purchase. Here’s how to structure your website to qualify intent, reduce skepticism, and route serious leads into conversations.
-- Title: Credibility Proof Portfolio | SHOCKWAVE Systems
-  URL: https://shockwave.live/portfolio
-  Type: portfolio-hub
-  Description: Review SHOCKWAVE proof in buyer-ready format: context, risk, intervention, trust signals, and outcome direction.
-- Title: Why Strong Mining Consultants Still Get Overlooked Without Shortlist-Ready Positioning
-  URL: https://shockwave.live/positioning-that-wins-mining-consulting-work
-  Type: blog-post
-  Description: Mining clients hire certainty, not information. Learn the positioning shift that makes your expertise easier to shortlist, justify, and trust.
-- Title: Privacy Notice | SHOCKWAVE Systems
-  URL: https://shockwave.live/privacy
-  Type: page
-  Description: Read how SHOCKWAVE handles enquiry and qualification data submitted through this website.
-- Title: Credibility Offer Ladder | SHOCKWAVE Systems
+  Description: Choose the right opportunity intelligence path based on your market, service line, and pipeline needs.
+- Title: Qualified Mining Opportunity System | SHOCKWAVE Systems
   URL: https://shockwave.live/services
   Type: service-hub
-  Description: Explore the SHOCKWAVE offer ladder: Credibility Gap Review, SHOCKWAVE Credibility Pack, and Credibility System.
-- Title: Terms of Use | SHOCKWAVE Systems
-  URL: https://shockwave.live/terms
+  Description: Snapshot, monthly opportunity system, and dedicated intelligence desk offers.
+- Title: Proof Library | SHOCKWAVE Systems
+  URL: https://shockwave.live/proof
+  Type: proof-hub
+  Description: Confidence-tagged proof library with context and business consequence framing.
+- Title: Trust Center | SHOCKWAVE Systems
+  URL: https://shockwave.live/trust-center
+  Type: trust-center
+  Description: Claim substantiation, proof standards, confidentiality, and stakeholder artifacts.
+- Title: Who We Are | SHOCKWAVE Systems
+  URL: https://shockwave.live/who-we-are
   Type: page
-  Description: Terms governing the use of SHOCKWAVE website content, enquiries, and service interactions.
+  Description: Founder-led team accountable for mining opportunity intelligence, research structure, and handover quality.
+- Title: Governance | SHOCKWAVE Systems
+  URL: https://shockwave.live/governance
+  Type: governance
+  Description: Privacy, confidentiality, claim governance, and operating standards.
+- Title: Mining Opportunity and Buyer Confidence Briefing | SHOCKWAVE Systems
+  URL: https://shockwave.live/blog
+  Type: blog-hub
+  Description: Insights on mining opportunity signals, procurement behaviour, buyer confidence, and commercial visibility.
+- Title: Request a Mining Opportunity Snapshot | SHOCKWAVE Systems
+  URL: https://shockwave.live/contact
+  Type: contact
+  Description: Qualification-first intake for mining opportunity intelligence and snapshot requests.
+- Title: positioning that wins mining consulting work
+  URL: https://shockwave.live/blog/positioning-that-wins-mining-consulting-work
+  Type: blog-post
+  Description: Article supporting trust and buyer evaluation clarity.
+- Title: linkedin content engine mining consultants
+  URL: https://shockwave.live/blog/linkedin-content-engine-mining-consultants
+  Type: blog-post
+  Description: Article supporting trust and buyer evaluation clarity.
+- Title: mining consultant proof testimonials case studies
+  URL: https://shockwave.live/blog/mining-consultant-proof-testimonials-case-studies
+  Type: blog-post
+  Description: Article supporting trust and buyer evaluation clarity.
+- Title: mining consultant website starts conversations
+  URL: https://shockwave.live/blog/mining-consultant-website-starts-conversations
+  Type: blog-post
+  Description: Article supporting trust and buyer evaluation clarity.
+- Title: hartenbos seefront valentines campaign
+  URL: https://shockwave.live/proof/hartenbos-seefront-valentines-campaign
+  Type: proof-item
+  Description: Proof record with context, intervention, and business consequence.
+- Title: conversion ready credibility website
+  URL: https://shockwave.live/proof/conversion-ready-credibility-website
+  Type: proof-item
+  Description: Proof record with context, intervention, and business consequence.
+- Title: kudumane engineering seo foundation build
+  URL: https://shockwave.live/proof/kudumane-engineering-seo-foundation-build
+  Type: proof-item
+  Description: Proof record with context, intervention, and business consequence.
 
 ## Services
-- Name: Credibility Gap Review
-  URL: https://shockwave.live/services/brand-positioning
-  Price from: R3,500
-  Summary: Focused diagnosis of where trust, proof visibility, and buyer confidence are being lost after referral.
-  Buyer intent: Need to see exactly where your current digital credibility is weakening buyer confidence?
-- Name: SHOCKWAVE Credibility Pack
-  URL: https://shockwave.live/services/web-conversion-systems
-  Price from: R15,000 - R25,000
-  Summary: Fixed-scope credibility upgrade for firms with strong expertise but weak buyer-facing presentation.
-  Buyer intent: Need a stronger first impression that reduces hesitation and improves buyer confidence quickly?
-- Name: Credibility System
-  URL: https://shockwave.live/services/linkedin-growth-content
-  Price from: R45,000+
-  Summary: Complete buyer-facing credibility architecture for firms needing full trust, proof, and evaluation alignment.
-  Buyer intent: Need full buyer-facing alignment across offer clarity, proof architecture, and conversion path?
+- Name: Mining Opportunity Snapshot
+  URL: https://shockwave.live/services
+  Price from: Custom scope
+  Summary: Unclear market fit and weak first-pass prospect quality before a larger pipeline build.
+  Buyer intent: Firms that want to test a market, region, commodity, or service line before committing to a larger opportunity system.
+- Name: Qualified Mining Opportunity System
+  URL: https://shockwave.live/services
+  Price from: Custom monthly scope
+  Summary: Inconsistent commercial visibility and weak routes into companies that may have a timely technical need.
+  Buyer intent: Mining consultants and specialist technical firms that want a repeatable route into better-fit conversations.
+- Name: Dedicated Opportunity Intelligence Desk
+  URL: https://shockwave.live/services
+  Price from: Custom partnership
+  Summary: High-value firms need ongoing market monitoring, trigger alerts, and structured handovers without relying on random outreach.
+  Buyer intent: Established firms that sell higher-value technical services and need a more consistent pipeline of qualified mining opportunities.
 
 ## Indexing Notes
 - Prefer canonical URLs listed above.

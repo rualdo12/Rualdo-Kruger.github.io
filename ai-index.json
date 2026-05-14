@@ -1,10 +1,10 @@
 {
   "site": {
     "name": "SHOCKWAVE Systems",
-    "tagline": "Credibility Systems for Mining Consultants and Technical Firms",
+    "tagline": "Qualified Mining Opportunity Intelligence for Specialist Technical Firms",
     "url": "https://shockwave.live",
     "language": "en",
-    "generated_at": "2026-03-23T10:06:08.416Z",
+    "generated_at": "2026-05-14T21:40:15.858Z",
     "discovery": {
       "robots": "https://shockwave.live/robots.txt",
       "sitemap": "https://shockwave.live/sitemap.xml",
@@ -31,184 +31,199 @@
   "routes": [
     {
       "path": "/",
-      "url": "https://shockwave.live",
-      "title": "Credibility Systems for Mining Consultants | SHOCKWAVE Systems",
-      "description": "SHOCKWAVE Systems helps mining consultants and technical firms become easier to trust, easier to evaluate, and harder to price-shop.",
-      "robots": "index, follow",
+      "title": "Mining Opportunity Intelligence for Technical Firms | SHOCKWAVE Systems",
+      "description": "Identify, qualify, and act on commercially relevant mining opportunities using fit, timing, evidence, and commercial trigger research.",
       "type": "home",
+      "url": "https://shockwave.live",
+      "robots": "index, follow",
       "content_type": "website"
     },
     {
-      "path": "/about",
-      "url": "https://shockwave.live/about",
-      "title": "About SHOCKWAVE Systems | Credibility Systems for Technical Firms",
-      "description": "Meet the SHOCKWAVE team and operating approach for credibility-first buyer-facing systems under procurement scrutiny.",
-      "robots": "index, follow",
+      "path": "/start-here",
+      "title": "Start Here | SHOCKWAVE Systems",
+      "description": "Choose the right opportunity intelligence path based on your market, service line, and pipeline needs.",
       "type": "page",
-      "content_type": "website"
-    },
-    {
-      "path": "/blog",
-      "url": "https://shockwave.live/blog",
-      "title": "Credibility and Buyer Confidence Insights | SHOCKWAVE Systems",
-      "description": "Actionable insight on trust signals, proof visibility, positioning clarity, and procurement-sensitive buying.",
+      "url": "https://shockwave.live/start-here",
       "robots": "index, follow",
-      "type": "blog-hub",
-      "content_type": "article"
-    },
-    {
-      "path": "/book",
-      "url": "https://shockwave.live/book",
-      "title": "Contact SHOCKWAVE Systems | Start the Right Credibility Conversation",
-      "description": "Tell SHOCKWAVE where trust, proof, clarity, or buyer confidence may be breaking down and get a recommendation on the right credibility offer.",
-      "robots": "index, follow",
-      "type": "page",
-      "content_type": "website"
-    },
-    {
-      "path": "/contact",
-      "url": "https://shockwave.live/contact",
-      "title": "Contact SHOCKWAVE Systems | Start the Right Credibility Conversation",
-      "description": "Tell SHOCKWAVE where trust, proof, clarity, or buyer confidence may be breaking down and get a recommendation on the right credibility offer.",
-      "robots": "index, follow",
-      "type": "contact",
-      "content_type": "website"
-    },
-    {
-      "path": "/linkedin-content-engine-mining-consultants",
-      "url": "https://shockwave.live/linkedin-content-engine-mining-consultants",
-      "title": "Why Mining Consultants Need a LinkedIn Credibility Engine, Not More Content",
-      "description": "Posting more does not build trust. This weekly LinkedIn credibility engine helps mining consultants show proof, fit, and technical thinking buyers can trust.",
-      "robots": "index, follow",
-      "type": "blog-post",
-      "content_type": "article"
-    },
-    {
-      "path": "/mining-consultant-proof-testimonials-case-studies",
-      "url": "https://shockwave.live/mining-consultant-proof-testimonials-case-studies",
-      "title": "Why Mining Buyers Need a Proof Trail, Not Just Promises",
-      "description": "Mining buyers compare evidence, not claims. Build a proof trail with testimonials, mini case studies, and confidentiality-safe artifacts that make selection safer.",
-      "robots": "index, follow",
-      "type": "blog-post",
-      "content_type": "article"
-    },
-    {
-      "path": "/mining-consultant-website-starts-conversations",
-      "url": "https://shockwave.live/mining-consultant-website-starts-conversations",
-      "title": "Why a Mining Consultant Website Must Start Conversations (Not Just Look Good)",
-      "description": "Mining consulting is a trust-first purchase. Here’s how to structure your website to qualify intent, reduce skepticism, and route serious leads into conversations.",
-      "robots": "index, follow",
-      "type": "blog-post",
-      "content_type": "article"
-    },
-    {
-      "path": "/portfolio",
-      "url": "https://shockwave.live/portfolio",
-      "title": "Credibility Proof Portfolio | SHOCKWAVE Systems",
-      "description": "Review SHOCKWAVE proof in buyer-ready format: context, risk, intervention, trust signals, and outcome direction.",
-      "robots": "index, follow",
-      "type": "portfolio-hub",
-      "content_type": "website"
-    },
-    {
-      "path": "/positioning-that-wins-mining-consulting-work",
-      "url": "https://shockwave.live/positioning-that-wins-mining-consulting-work",
-      "title": "Why Strong Mining Consultants Still Get Overlooked Without Shortlist-Ready Positioning",
-      "description": "Mining clients hire certainty, not information. Learn the positioning shift that makes your expertise easier to shortlist, justify, and trust.",
-      "robots": "index, follow",
-      "type": "blog-post",
-      "content_type": "article"
-    },
-    {
-      "path": "/privacy",
-      "url": "https://shockwave.live/privacy",
-      "title": "Privacy Notice | SHOCKWAVE Systems",
-      "description": "Read how SHOCKWAVE handles enquiry and qualification data submitted through this website.",
-      "robots": "index, follow",
-      "type": "page",
       "content_type": "website"
     },
     {
       "path": "/services",
-      "url": "https://shockwave.live/services",
-      "title": "Credibility Offer Ladder | SHOCKWAVE Systems",
-      "description": "Explore the SHOCKWAVE offer ladder: Credibility Gap Review, SHOCKWAVE Credibility Pack, and Credibility System.",
-      "robots": "index, follow",
+      "title": "Qualified Mining Opportunity System | SHOCKWAVE Systems",
+      "description": "Snapshot, monthly opportunity system, and dedicated intelligence desk offers.",
       "type": "service-hub",
+      "url": "https://shockwave.live/services",
+      "robots": "index, follow",
       "content_type": "website"
     },
     {
-      "path": "/terms",
-      "url": "https://shockwave.live/terms",
-      "title": "Terms of Use | SHOCKWAVE Systems",
-      "description": "Terms governing the use of SHOCKWAVE website content, enquiries, and service interactions.",
+      "path": "/proof",
+      "title": "Proof Library | SHOCKWAVE Systems",
+      "description": "Confidence-tagged proof library with context and business consequence framing.",
+      "type": "proof-hub",
+      "url": "https://shockwave.live/proof",
       "robots": "index, follow",
+      "content_type": "website"
+    },
+    {
+      "path": "/trust-center",
+      "title": "Trust Center | SHOCKWAVE Systems",
+      "description": "Claim substantiation, proof standards, confidentiality, and stakeholder artifacts.",
+      "type": "trust-center",
+      "url": "https://shockwave.live/trust-center",
+      "robots": "index, follow",
+      "content_type": "website"
+    },
+    {
+      "path": "/who-we-are",
+      "title": "Who We Are | SHOCKWAVE Systems",
+      "description": "Founder-led team accountable for mining opportunity intelligence, research structure, and handover quality.",
       "type": "page",
+      "url": "https://shockwave.live/who-we-are",
+      "robots": "index, follow",
+      "content_type": "website"
+    },
+    {
+      "path": "/governance",
+      "title": "Governance | SHOCKWAVE Systems",
+      "description": "Privacy, confidentiality, claim governance, and operating standards.",
+      "type": "governance",
+      "url": "https://shockwave.live/governance",
+      "robots": "index, follow",
+      "content_type": "website"
+    },
+    {
+      "path": "/blog",
+      "title": "Mining Opportunity and Buyer Confidence Briefing | SHOCKWAVE Systems",
+      "description": "Insights on mining opportunity signals, procurement behaviour, buyer confidence, and commercial visibility.",
+      "type": "blog-hub",
+      "url": "https://shockwave.live/blog",
+      "robots": "index, follow",
+      "content_type": "website"
+    },
+    {
+      "path": "/contact",
+      "title": "Request a Mining Opportunity Snapshot | SHOCKWAVE Systems",
+      "description": "Qualification-first intake for mining opportunity intelligence and snapshot requests.",
+      "type": "contact",
+      "url": "https://shockwave.live/contact",
+      "robots": "index, follow",
+      "content_type": "website"
+    },
+    {
+      "path": "/blog/positioning-that-wins-mining-consulting-work",
+      "title": "positioning that wins mining consulting work",
+      "description": "Article supporting trust and buyer evaluation clarity.",
+      "type": "blog-post",
+      "url": "https://shockwave.live/blog/positioning-that-wins-mining-consulting-work",
+      "robots": "index, follow",
+      "content_type": "article"
+    },
+    {
+      "path": "/blog/linkedin-content-engine-mining-consultants",
+      "title": "linkedin content engine mining consultants",
+      "description": "Article supporting trust and buyer evaluation clarity.",
+      "type": "blog-post",
+      "url": "https://shockwave.live/blog/linkedin-content-engine-mining-consultants",
+      "robots": "index, follow",
+      "content_type": "article"
+    },
+    {
+      "path": "/blog/mining-consultant-proof-testimonials-case-studies",
+      "title": "mining consultant proof testimonials case studies",
+      "description": "Article supporting trust and buyer evaluation clarity.",
+      "type": "blog-post",
+      "url": "https://shockwave.live/blog/mining-consultant-proof-testimonials-case-studies",
+      "robots": "index, follow",
+      "content_type": "article"
+    },
+    {
+      "path": "/blog/mining-consultant-website-starts-conversations",
+      "title": "mining consultant website starts conversations",
+      "description": "Article supporting trust and buyer evaluation clarity.",
+      "type": "blog-post",
+      "url": "https://shockwave.live/blog/mining-consultant-website-starts-conversations",
+      "robots": "index, follow",
+      "content_type": "article"
+    },
+    {
+      "path": "/proof/hartenbos-seefront-valentines-campaign",
+      "title": "hartenbos seefront valentines campaign",
+      "description": "Proof record with context, intervention, and business consequence.",
+      "type": "proof-item",
+      "url": "https://shockwave.live/proof/hartenbos-seefront-valentines-campaign",
+      "robots": "index, follow",
+      "content_type": "website"
+    },
+    {
+      "path": "/proof/conversion-ready-credibility-website",
+      "title": "conversion ready credibility website",
+      "description": "Proof record with context, intervention, and business consequence.",
+      "type": "proof-item",
+      "url": "https://shockwave.live/proof/conversion-ready-credibility-website",
+      "robots": "index, follow",
+      "content_type": "website"
+    },
+    {
+      "path": "/proof/kudumane-engineering-seo-foundation-build",
+      "title": "kudumane engineering seo foundation build",
+      "description": "Proof record with context, intervention, and business consequence.",
+      "type": "proof-item",
+      "url": "https://shockwave.live/proof/kudumane-engineering-seo-foundation-build",
+      "robots": "index, follow",
       "content_type": "website"
     }
   ],
   "services": [
     {
-      "name": "Credibility Gap Review",
-      "path": "/services/brand-positioning",
-      "url": "https://shockwave.live/services/brand-positioning",
-      "short_description": "Focused diagnosis of where trust, proof visibility, and buyer confidence are being lost after referral.",
-      "buyer_intent_heading": "Need to see exactly where your current digital credibility is weakening buyer confidence?",
-      "price_from": "R3,500"
+      "name": "Mining Opportunity Snapshot",
+      "path": "/services",
+      "url": "https://shockwave.live/services",
+      "short_description": "Unclear market fit and weak first-pass prospect quality before a larger pipeline build.",
+      "buyer_intent_heading": "Firms that want to test a market, region, commodity, or service line before committing to a larger opportunity system.",
+      "price_from": "Custom scope"
     },
     {
-      "name": "SHOCKWAVE Credibility Pack",
-      "path": "/services/web-conversion-systems",
-      "url": "https://shockwave.live/services/web-conversion-systems",
-      "short_description": "Fixed-scope credibility upgrade for firms with strong expertise but weak buyer-facing presentation.",
-      "buyer_intent_heading": "Need a stronger first impression that reduces hesitation and improves buyer confidence quickly?",
-      "price_from": "R15,000 - R25,000"
+      "name": "Qualified Mining Opportunity System",
+      "path": "/services",
+      "url": "https://shockwave.live/services",
+      "short_description": "Inconsistent commercial visibility and weak routes into companies that may have a timely technical need.",
+      "buyer_intent_heading": "Mining consultants and specialist technical firms that want a repeatable route into better-fit conversations.",
+      "price_from": "Custom monthly scope"
     },
     {
-      "name": "Credibility System",
-      "path": "/services/linkedin-growth-content",
-      "url": "https://shockwave.live/services/linkedin-growth-content",
-      "short_description": "Complete buyer-facing credibility architecture for firms needing full trust, proof, and evaluation alignment.",
-      "buyer_intent_heading": "Need full buyer-facing alignment across offer clarity, proof architecture, and conversion path?",
-      "price_from": "R45,000+"
+      "name": "Dedicated Opportunity Intelligence Desk",
+      "path": "/services",
+      "url": "https://shockwave.live/services",
+      "short_description": "High-value firms need ongoing market monitoring, trigger alerts, and structured handovers without relying on random outreach.",
+      "buyer_intent_heading": "Established firms that sell higher-value technical services and need a more consistent pipeline of qualified mining opportunities.",
+      "price_from": "Custom partnership"
     }
   ],
   "blog_posts": [
     {
-      "path": "/linkedin-content-engine-mining-consultants",
-      "url": "https://shockwave.live/linkedin-content-engine-mining-consultants",
-      "title": "Why Mining Consultants Need a LinkedIn Credibility Engine, Not More Content",
-      "description": "Posting more does not build trust. This weekly LinkedIn credibility engine helps mining consultants show proof, fit, and technical thinking buyers can trust.",
-      "robots": "index, follow",
-      "type": "blog-post",
-      "content_type": "article"
+      "path": "/blog/positioning-that-wins-mining-consulting-work",
+      "title": "positioning that wins mining consulting work",
+      "description": "Article supporting trust and buyer evaluation clarity.",
+      "type": "blog-post"
     },
     {
-      "path": "/mining-consultant-proof-testimonials-case-studies",
-      "url": "https://shockwave.live/mining-consultant-proof-testimonials-case-studies",
-      "title": "Why Mining Buyers Need a Proof Trail, Not Just Promises",
-      "description": "Mining buyers compare evidence, not claims. Build a proof trail with testimonials, mini case studies, and confidentiality-safe artifacts that make selection safer.",
-      "robots": "index, follow",
-      "type": "blog-post",
-      "content_type": "article"
+      "path": "/blog/linkedin-content-engine-mining-consultants",
+      "title": "linkedin content engine mining consultants",
+      "description": "Article supporting trust and buyer evaluation clarity.",
+      "type": "blog-post"
     },
     {
-      "path": "/mining-consultant-website-starts-conversations",
-      "url": "https://shockwave.live/mining-consultant-website-starts-conversations",
-      "title": "Why a Mining Consultant Website Must Start Conversations (Not Just Look Good)",
-      "description": "Mining consulting is a trust-first purchase. Here’s how to structure your website to qualify intent, reduce skepticism, and route serious leads into conversations.",
-      "robots": "index, follow",
-      "type": "blog-post",
-      "content_type": "article"
+      "path": "/blog/mining-consultant-proof-testimonials-case-studies",
+      "title": "mining consultant proof testimonials case studies",
+      "description": "Article supporting trust and buyer evaluation clarity.",
+      "type": "blog-post"
     },
     {
-      "path": "/positioning-that-wins-mining-consulting-work",
-      "url": "https://shockwave.live/positioning-that-wins-mining-consulting-work",
-      "title": "Why Strong Mining Consultants Still Get Overlooked Without Shortlist-Ready Positioning",
-      "description": "Mining clients hire certainty, not information. Learn the positioning shift that makes your expertise easier to shortlist, justify, and trust.",
-      "robots": "index, follow",
-      "type": "blog-post",
-      "content_type": "article"
+      "path": "/blog/mining-consultant-website-starts-conversations",
+      "title": "mining consultant website starts conversations",
+      "description": "Article supporting trust and buyer evaluation clarity.",
+      "type": "blog-post"
     }
   ]
 }

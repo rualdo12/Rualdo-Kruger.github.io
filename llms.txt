@@ -1,8 +1,8 @@
 # SHOCKWAVE Systems
-> Credibility Systems for Mining Consultants and Technical Firms
+> Qualified Mining Opportunity Intelligence for Specialist Technical Firms
 
 Site: https://shockwave.live
-Updated: 2026-03-23
+Updated: 2026-05-14
 
 ## Crawl Access
 - Public pages are available for indexing and summarization.
@@ -15,23 +15,21 @@ Updated: 2026-03-23
 - LLM Full Map: https://shockwave.live/llms-full.txt
 
 ## Core Pages
-- Credibility Systems for Mining Consultants | SHOCKWAVE Systems: https://shockwave.live
-- About SHOCKWAVE Systems | Credibility Systems for Technical Firms: https://shockwave.live/about
-- Credibility and Buyer Confidence Insights | SHOCKWAVE Systems: https://shockwave.live/blog
-- Contact SHOCKWAVE Systems | Start the Right Credibility Conversation: https://shockwave.live/book
-- Contact SHOCKWAVE Systems | Start the Right Credibility Conversation: https://shockwave.live/contact
-- Credibility Proof Portfolio | SHOCKWAVE Systems: https://shockwave.live/portfolio
-- Privacy Notice | SHOCKWAVE Systems: https://shockwave.live/privacy
-- Credibility Offer Ladder | SHOCKWAVE Systems: https://shockwave.live/services
-- Terms of Use | SHOCKWAVE Systems: https://shockwave.live/terms
-
-## Service Pages
+- Mining Opportunity Intelligence for Technical Firms | SHOCKWAVE Systems: https://shockwave.live
+- Start Here | SHOCKWAVE Systems: https://shockwave.live/start-here
+- Qualified Mining Opportunity System | SHOCKWAVE Systems: https://shockwave.live/services
+- Proof Library | SHOCKWAVE Systems: https://shockwave.live/proof
+- Trust Center | SHOCKWAVE Systems: https://shockwave.live/trust-center
+- Who We Are | SHOCKWAVE Systems: https://shockwave.live/who-we-are
+- Governance | SHOCKWAVE Systems: https://shockwave.live/governance
+- Mining Opportunity and Buyer Confidence Briefing | SHOCKWAVE Systems: https://shockwave.live/blog
+- Request a Mining Opportunity Snapshot | SHOCKWAVE Systems: https://shockwave.live/contact
 
 ## Blog Posts
-- Why Mining Consultants Need a LinkedIn Credibility Engine, Not More Content: https://shockwave.live/linkedin-content-engine-mining-consultants
-- Why Mining Buyers Need a Proof Trail, Not Just Promises: https://shockwave.live/mining-consultant-proof-testimonials-case-studies
-- Why a Mining Consultant Website Must Start Conversations (Not Just Look Good): https://shockwave.live/mining-consultant-website-starts-conversations
-- Why Strong Mining Consultants Still Get Overlooked Without Shortlist-Ready Positioning: https://shockwave.live/positioning-that-wins-mining-consulting-work
+- /blog/positioning-that-wins-mining-consulting-work: https://shockwave.live/blog/positioning-that-wins-mining-consulting-work
+- /blog/linkedin-content-engine-mining-consultants: https://shockwave.live/blog/linkedin-content-engine-mining-consultants
+- /blog/mining-consultant-proof-testimonials-case-studies: https://shockwave.live/blog/mining-consultant-proof-testimonials-case-studies
+- /blog/mining-consultant-website-starts-conversations: https://shockwave.live/blog/mining-consultant-website-starts-conversations
 
 ## Contact
 - Email: rualdo@shockwave.live
